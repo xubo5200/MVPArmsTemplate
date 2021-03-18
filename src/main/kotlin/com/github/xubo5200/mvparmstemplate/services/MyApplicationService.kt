@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xubo5200.mvparmstemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xubo5200.mvparmstemplate.MyBundle
 
 class MyApplicationService {
 

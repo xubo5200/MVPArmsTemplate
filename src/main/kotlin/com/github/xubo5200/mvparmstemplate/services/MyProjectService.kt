@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.xubo5200.mvparmstemplate.services
 
+import com.github.xubo5200.mvparmstemplate.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
